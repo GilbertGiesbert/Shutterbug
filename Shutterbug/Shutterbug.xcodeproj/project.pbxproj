@@ -17,6 +17,7 @@
 		EC3376F01C96ED66008A46F1 /* FlickrPhotosTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3376EF1C96ED66008A46F1 /* FlickrPhotosTVC.m */; };
 		EC3376F31C96EFAD008A46F1 /* JustPostedFlickrPhotosTVC.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3376F21C96EFAD008A46F1 /* JustPostedFlickrPhotosTVC.m */; };
 		EC3376F81C96F161008A46F1 /* FlickrFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3376F71C96F161008A46F1 /* FlickrFetcher.m */; };
+		EC3376FC1C970E3D008A46F1 /* ImageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EC3376FB1C970E3D008A46F1 /* ImageViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,8 @@
 		EC3376F61C96F161008A46F1 /* FlickrFetcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlickrFetcher.h; sourceTree = "<group>"; };
 		EC3376F71C96F161008A46F1 /* FlickrFetcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlickrFetcher.m; sourceTree = "<group>"; };
 		EC3376F91C97008B008A46F1 /* FlickrAPIKey.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlickrAPIKey.h; sourceTree = "<group>"; };
+		EC3376FA1C970E3D008A46F1 /* ImageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ImageViewController.h; sourceTree = "<group>"; };
+		EC3376FB1C970E3D008A46F1 /* ImageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ImageViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +97,8 @@
 				EC3376F41C96F161008A46F1 /* Flickr Fetcher */,
 				EC3376CC1C96DBC6008A46F1 /* AppDelegate.h */,
 				EC3376CD1C96DBC6008A46F1 /* AppDelegate.m */,
+				EC3376FA1C970E3D008A46F1 /* ImageViewController.h */,
+				EC3376FB1C970E3D008A46F1 /* ImageViewController.m */,
 				EC3376CF1C96DBC6008A46F1 /* ViewController.h */,
 				EC3376D01C96DBC6008A46F1 /* ViewController.m */,
 				EC3376D21C96DBC6008A46F1 /* Main.storyboard */,
@@ -249,6 +254,7 @@
 				EC3376F01C96ED66008A46F1 /* FlickrPhotosTVC.m in Sources */,
 				EC3376CE1C96DBC6008A46F1 /* AppDelegate.m in Sources */,
 				EC3376F81C96F161008A46F1 /* FlickrFetcher.m in Sources */,
+				EC3376FC1C970E3D008A46F1 /* ImageViewController.m in Sources */,
 				EC3376CB1C96DBC6008A46F1 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
